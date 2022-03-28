@@ -49,5 +49,6 @@
     -> Correlation.ipynb (相関分析の実施)\
   - Standard-1\
     ->　LinearRegression_1.ipynb (簡単な線形回帰モデル(単回帰モデル)を試す)
+    ->　DummyVariable.ipynb　　（簡単な線形回帰モデル(重回帰モデル)を試す, ダミー変数について）
 - 応用編
   - （作成中）
