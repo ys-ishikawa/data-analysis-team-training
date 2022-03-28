@@ -27,12 +27,12 @@
 
 ### 課題の進めかた
 
-- GoogleColaboratoryを使う場合
+- GoogleColaboratoryを使う場合 \
   -> GitHubから課題のフォルダをコピーし、GoogleDriveに格納する。課題のフォルダで新しいノートブックを作成し作業　\
   -> ファイル名は、[課題ファイル名]_[作成者名]_[年月日].ipynb （例：　Summarize_ishikawa_220328.ipynb）　\
   -> 各担当案件の研修ディレクトリに、作成したノートブックを格納すること
 
-- Docker環境でGitLabを使う場合
+- Docker環境でGitLabを使う場合 \
   -> Gitで新しいブランチを切ること。ブランチ名は、[課題名]_[担当者]とする。　（例：　Summarize_ishikawa）　\
   -> GitLabを起動し、/workフォルダに課題のフォルダがあることを確認する。　\
   -> 課題のフォルダ内で、新しいノートブックを作成し、作業すること。　\
@@ -48,7 +48,7 @@
   - Easy-2\
     -> Correlation.ipynb (相関分析の実施)\
   - Standard-1\
-    ->　LinearRegression_1.ipynb (簡単な線形回帰モデル(単回帰モデル)を試す)
+    ->　LinearRegression_1.ipynb (簡単な線形回帰モデル(単回帰モデル)を試す) \
     ->　DummyVariable.ipynb　　（簡単な線形回帰モデル(重回帰モデル)を試す, ダミー変数について）
 - 応用編
   - （作成中）
