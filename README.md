@@ -47,9 +47,16 @@
     -> Summarize.ipynb (要約統計量を算出する)\
     -> Visualize.ipynb (データの分布を確認する)
   - Easy-2\
-    -> Correlation.ipynb (相関分析の実施)\
+    -> Correlation.ipynb (相関分析の実施)
   - Standard-1\
     ->　LinearRegression_1.ipynb (簡単な線形回帰モデル(単回帰モデル)を試す) \
     ->　DummyVariable.ipynb　　（簡単な線形回帰モデル(重回帰モデル)を試す, ダミー変数について）
+  - Standard-2 \
+    データ加工編　\
+    -> DataProcessing_1.ipynb \
+    -> DataProcessing_2.ipynb（作成中） \
+    -> DataProcessing_3.ipynb（作成中） \
+    -> DataProcessing_4.ipynb（作成中） \
+    -> DataProcessing_2.ipynb（作成中）
 - 応用編
   - （作成中）
