@@ -59,5 +59,5 @@
     -> DataProcessing_4.ipynb（予定） \
     -> DataProcessing_5.ipynb（予定）
 - 応用編
-  - No.1　\
+  - No.1（時系列データを扱う）　\
     -> TimeSeriesDataProcessing.ipynb
