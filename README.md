@@ -41,7 +41,7 @@
   -> 課題が完了したらプッシュし、プルリクエストを作成すること。
 
 
-### 課題一覧（2022/3/31時点）
+### 課題一覧（2022/4/4 時点）
 - 基礎編
   - Easy-1\
     -> Summarize.ipynb (要約統計量を算出する)\
@@ -57,6 +57,6 @@
     -> DataProcessing_2.ipynb \
     -> DataProcessing_3.ipynb \
     -> DataProcessing_4.ipynb（予定） \
-    -> DataProcessing_.ipynb（予定）
+    -> DataProcessing_5.ipynb（予定）
 - 応用編
   - （作成中）
