@@ -57,6 +57,6 @@
     -> DataProcessing_2.ipynb \
     -> DataProcessing_3.ipynb \
     -> DataProcessing_4.ipynb（予定） \
-    -> DataProcessing_2.ipynb（予定）
+    -> DataProcessing_.ipynb（予定）
 - 応用編
   - （作成中）
