@@ -54,8 +54,8 @@
   - Standard-2 \
     データ加工編 (「データサイエンティスト協会スキル定義委員」の公開データを利用　）　\
     -> DataProcessing_1.ipynb \
-    -> DataProcessing_2.ipynb（作成中） \
-    -> DataProcessing_3.ipynb（予定） \
+    -> DataProcessing_2.ipynb \
+    -> DataProcessing_3.ipynb \
     -> DataProcessing_4.ipynb（予定） \
     -> DataProcessing_2.ipynb（予定）
 - 応用編
