@@ -67,13 +67,13 @@
     -> Linear_Regression_3.ipynb
   - ロジスティック回帰
     ->　Logistic_Regression.ipynb（予定）
-  - 決定木モデル（予定）
-    回帰
+  - 決定木モデル（予定）\
+    回帰　\
       -> light_gbm.ipynb(予定) \
-      -> xgboost.ipynb(予定)
-    分類
+      -> xgboost.ipynb(予定)　\
+    分類　\
       -> light_gbm.ipynb(予定)
-  - 主成分分析（PCA）
+  - 主成分分析（PCA）\
     ->　pca.ipynb(予定)
-  - SVM(サポートベクターマシン)（予定）
+  - SVM(サポートベクターマシン)（予定）\
       svm.ipynb（予定）
