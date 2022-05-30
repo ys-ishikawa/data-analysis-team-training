@@ -41,7 +41,7 @@
   -> 課題が完了したらプッシュし、プルリクエストを作成すること。
 
 
-### 課題一覧（2022/5/27 時点）
+### 課題一覧（2022/5/30 時点）
 - 基礎編
   - Easy-1 \
     -> Summarize.ipynb (要約統計量を算出する)\
@@ -58,21 +58,23 @@
       -> DataProcessing_3.ipynb \
       -> DataProcessing_4.ipynb（予定） \
       -> DataProcessing_5.ipynb（予定）
+
 - 応用編
   - No.1（時系列データを扱う）　\
     -> TimeSeriesDataProcessing.ipynb
+
 - 機械学習編
-  - 回帰予測モデル
+  - 線形回帰モデル \
     -> Linear_Regression_2.ipynb \
     -> Linear_Regression_3.ipynb
-  - ロジスティック回帰
+  - ロジスティック回帰 \
     ->　Logistic_Regression.ipynb（予定）
   - 決定木モデル（予定）\
     回帰　\
-      -> light_gbm.ipynb(予定) \
+      -> LightGBM_regression.ipynb \
       -> xgboost.ipynb(予定)　\
     分類　\
-      -> light_gbm.ipynb(予定)
+      -> LightGBM_classification.ipynb
   - 主成分分析（PCA）\
     ->　pca.ipynb(予定)
   - SVM(サポートベクターマシン)（予定）\
