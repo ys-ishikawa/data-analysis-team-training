@@ -41,7 +41,7 @@
   -> 課題が完了したらプッシュし、プルリクエストを作成すること。
 
 
-### 課題一覧（2022/6/15 時点）
+### 課題一覧（2022/6/16 時点）
 
 - Python基本
   - 研修テスト_1.ipynb
@@ -68,10 +68,10 @@
     データ加工編 (「データサイエンティスト協会スキル定義委員」の公開データを利用　）　\
       -> DataProcessing_1.ipynb \
       -> DataProcessing_2.ipynb \
-      -> DataProcessing_3.ipynb \
+      -> DataProcessing_3.ipynb
   - Standard-3 \
     -> Visualize_2.ipynb \
-    -> Visualize_3.ipynb（予定）
+    -> Visualize_3.ipynb
 - データ分析応用編
   - No.1（時系列データを扱う）　\
     -> TimeSeriesDataProcessing.ipynb
