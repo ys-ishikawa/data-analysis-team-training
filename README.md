@@ -70,7 +70,7 @@
       -> DataProcessing_2.ipynb \
       -> DataProcessing_3.ipynb \
   - Standard-3 \
-    -> Visualize_2.ipynb（予定）
+    -> Visualize_2.ipynb \
     -> Visualize_3.ipynb（予定）
 - データ分析応用編
   - No.1（時系列データを扱う）　\
