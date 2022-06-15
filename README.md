@@ -41,7 +41,7 @@
   -> 課題が完了したらプッシュし、プルリクエストを作成すること。
 
 
-### 課題一覧（2022/6/8 時点）
+### 課題一覧（2022/6/15 時点）
 
 - Python基本
   - 研修テスト_1.ipynb
@@ -69,7 +69,9 @@
       -> DataProcessing_1.ipynb \
       -> DataProcessing_2.ipynb \
       -> DataProcessing_3.ipynb \
-
+  - Standard-3 \
+    -> Visualize_2.ipynb（予定）
+    -> Visualize_3.ipynb（予定）
 - データ分析応用編
   - No.1（時系列データを扱う）　\
     -> TimeSeriesDataProcessing.ipynb
@@ -88,6 +90,11 @@
       -> LightGBM_classification.ipynb
   - 主成分分析（PCA）\
     ->　PCA.ipynb(予定)
+  - k近傍法（kNN）　\
+    回帰分析 \
+      -> knn_regression.ipynb \
+    分類器 \
+      -> knn_classification.ipynb(予定)
   - SVM(サポートベクターマシン)（予定）\
       SVM.ipynb（予定）
   - 部分最小二乗回帰（PLSR）　（予定）
