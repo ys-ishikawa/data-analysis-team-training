@@ -16,6 +16,7 @@
         - matplotlib
 
 - 推奨書籍 \
+  最短コースでわかるPythonプログラミングとデータ分析\
   https://github.com/makaishi2/data_analysis_book_info
 
 ### 課題実施時の環境構築
