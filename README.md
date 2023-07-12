@@ -1,6 +1,24 @@
 # data-analysis-team-training
 
 
+### Pythonの基本学習
+- Webサイト\
+  https://www.python.ambitious-engineer.com/ \
+  ->Basic（入門編） \
+  ->Application（応用編）
+      
+      6. その他サードパーティ製ライブラリ
+        - pipの使用方法
+        
+      7. データ分析
+        - pandas入門
+        - Numpy
+        - matplotlib
+
+- 推奨書籍 \
+  最短コースでわかるPythonプログラミングとデータ分析\
+  https://github.com/makaishi2/data_analysis_book_info
+
 ### 課題実施時の環境構築
 
 - パターン１：　GoogleColaboratoryを使う場合 \
